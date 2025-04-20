@@ -1,0 +1,7 @@
+F:\111 Student Data – Anuj Shelke\C# and .NET Framework - Part 2\Math Operation App\MathOperationApp\MathOperationApp\bin\Debug\MathOperationApp.exe.config
+F:\111 Student Data – Anuj Shelke\C# and .NET Framework - Part 2\Math Operation App\MathOperationApp\MathOperationApp\bin\Debug\MathOperationApp.exe
+F:\111 Student Data – Anuj Shelke\C# and .NET Framework - Part 2\Math Operation App\MathOperationApp\MathOperationApp\bin\Debug\MathOperationApp.pdb
+F:\111 Student Data – Anuj Shelke\C# and .NET Framework - Part 2\Math Operation App\MathOperationApp\MathOperationApp\obj\Debug\MathOperationApp.csproj.AssemblyReference.cache
+F:\111 Student Data – Anuj Shelke\C# and .NET Framework - Part 2\Math Operation App\MathOperationApp\MathOperationApp\obj\Debug\MathOperationApp.csproj.CoreCompileInputs.cache
+F:\111 Student Data – Anuj Shelke\C# and .NET Framework - Part 2\Math Operation App\MathOperationApp\MathOperationApp\obj\Debug\MathOperationApp.exe
+F:\111 Student Data – Anuj Shelke\C# and .NET Framework - Part 2\Math Operation App\MathOperationApp\MathOperationApp\obj\Debug\MathOperationApp.pdb
